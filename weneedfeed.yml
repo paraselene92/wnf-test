@@ -1,0 +1,12 @@
+title: RSS feeds test
+
+pages:
+  - id: rft
+    title: rss feeds test
+    description: test
+    url: https://forest.watch.impress.co.jp/category/security/
+    item_selector: div.article li.item:not(.ad) div.text
+    item_description_selector: p.outline
+    item_link_selector: a
+    item_time_selector: p.date
+    item_title_selector: a
