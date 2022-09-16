@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>RSS feeds test</title>
+  </head>
+  <body>
+    <outline text="RSS feeds test" title="RSS feeds test">
+      
+        <outline type="rss" attr="rss feeds test" title="rss feeds test" xmlUrl="https://paraselene92.github.io/wnf-test/feeds/rft.xml" htmlUrl="https://forest.watch.impress.co.jp/category/security/"/>
+      
+    </outline>
+  </body>
+</opml>

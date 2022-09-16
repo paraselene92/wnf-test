@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[rss feeds test]]></title>
+    <link>https://forest.watch.impress.co.jp/category/security/</link>
+    <atom:link href="https://paraselene92.github.io/wnf-test/feeds/rft.xml" rel="self"/>
+    <description><![CDATA[test]]></description>
+    <lastBuildDate>Fri, 16 Sep 2022 11:49:47 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[「Microsoft Edge 105」にセキュリティアップデート ～「Chrome」に1日遅れで追随]]></title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1440710.html</link>
+      
+        <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[修正された脆弱性はCVE番号ベースで6件]]></description>
+      <content:encoded><![CDATA[修正された脆弱性はCVE番号ベースで6件]]></content:encoded>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/1440710.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[「Arduino IDE 2.0」が公開 ～マイコンボード「Arduino」の開発環境]]></title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1440309.html</link>
+      
+        <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[バックエンドの刷新とUIの更新で応答性を向上。入力補完などの新機能も]]></description>
+      <content:encoded><![CDATA[バックエンドの刷新とUIの更新で応答性を向上。入力補完などの新機能も]]></content:encoded>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/1440309.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[「Google Chrome 105」にセキュリティアップデート ～11件の脆弱性が修正]]></title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1440106.html</link>
+      
+        <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[深刻度は「High」]]></description>
+      <content:encoded><![CDATA[深刻度は「High」]]></content:encoded>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/1440106.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[「Chrome」は「MiraclePtr」でさらに安全に ～Googleが「解放後メモリ利用」対策を開設]]></title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1439971.html</link>
+      
+        <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[診断性が向上するという副次的効果も]]></description>
+      <content:encoded><![CDATA[診断性が向上するという副次的効果も]]></content:encoded>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/1439971.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Microsoft、2022年9月のセキュリティ更新 ～「Microsoft アカウント」でWindows 11にログインできない既知の問題も解決]]></title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1439738.html</link>
+      
+        <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[ゼロデイ脆弱性を含む64件の脆弱性が新たに対処される]]></description>
+      <content:encoded><![CDATA[ゼロデイ脆弱性を含む64件の脆弱性が新たに対処される]]></content:encoded>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/1439738.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[「Photoshop」「Illustrator」「InDesign」などに深刻度最大「Critical」の脆弱性]]></title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1439736.html</link>
+      
+        <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[Adobeが月例セキュリティ情報を発表]]></description>
+      <content:encoded><![CDATA[Adobeが月例セキュリティ情報を発表]]></content:encoded>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/1439736.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[iOSのゼロデイ脆弱性はMacにも影響 ～「macOS Monterey 12.6」「macOS Big Sur 11.7」が公開]]></title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1439587.html</link>
+      
+        <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[アプリケーションがカーネル権限で任意のコードを実行できてしまう]]></description>
+      <content:encoded><![CDATA[アプリケーションがカーネル権限で任意のコードを実行できてしまう]]></content:encoded>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/1439587.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[脆弱性を悪用した攻撃を確認 ～Apple、対策版の「iOS 15.7」「iPadOS 15.7」を公開]]></title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1439368.html</link>
+      
+        <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[すべてのユーザーに対し適用が推奨]]></description>
+      <content:encoded><![CDATA[すべてのユーザーに対し適用が推奨]]></content:encoded>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/1439368.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[脆弱性に対処した「Wireshark 3.6.8」 ～オープンソースのパケット取得・解析ツール]]></title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1438462.html</link>
+      
+        <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[「Wireshark 3.4」系統の最新版「Wireshark 3.4.16」も公開]]></description>
+      <content:encoded><![CDATA[「Wireshark 3.4」系統の最新版「Wireshark 3.4.16」も公開]]></content:encoded>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/1438462.html</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[「Python」に定例外のセキュリティアップデート]]></title>
+      <link>https://forest.watch.impress.co.jp/docs/news/1438284.html</link>
+      
+        <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[v3.10.7、v3.9.14、v3.8.14、v3.7.14が公開]]></description>
+      <content:encoded><![CDATA[v3.10.7、v3.9.14、v3.8.14、v3.7.14が公開]]></content:encoded>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/1438284.html</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
