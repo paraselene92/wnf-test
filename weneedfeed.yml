@@ -10,3 +10,11 @@ pages:
     item_link_selector: a
     item_time_selector: p.date
     item_title_selector: a
+  - id: mnghack-urasaka
+    title: マンガハック - 陋巷酒家
+    url: https://mangahack.com/comics/7190
+    item_selector: div.comicList_box div.right
+    item_link_selector: a
+    item_time_selector: li
+    item_title_selector: p.title
+
