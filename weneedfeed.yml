@@ -19,7 +19,7 @@ pages:
     item_title_selector: p.title
   - id: urasunday-higashi
     title: 裏サンデー - 東サンディス旅客鉄道～馬車しかない異世界で鉄道会社はじめます～
-    url: https://urasunday.com/title/2556/224772
+    url: https://urasunday.com/title/2556
     item_selector: div.chapter ul li
     item_link_selector: a
     item_time_selector: div
