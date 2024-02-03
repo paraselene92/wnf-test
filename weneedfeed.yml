@@ -31,3 +31,11 @@ pages:
     item_link_selector: a
     item_time_selector: div
     item_title_selector: div
+  - id: comicnewtype-coherencelight
+    title: ComicNewType - アイドルマスターシャイニーカラーズコヒーレントライト
+    url: https://comic.webnewtype.com/contents/coherentlight/
+    item_selector: div.content__order div.detail__order.order--show ul#episodeListDsc.contents__list--comic li
+    item_link_selector: a
+    item_time_selector: div.detail__txt--date
+    item_title_selector: h2.detail__txt--ttl-sub
+
