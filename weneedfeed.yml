@@ -38,4 +38,24 @@ pages:
     item_link_selector: a
     item_time_selector: div.detail__txt--date
     item_title_selector: h2.detail__txt--ttl-sub
-
+  - id: KadoComi-Sushigaki
+    title: カドコミ - 寿司ガキ
+    url: https://comic-walker.com/contents/detail/KDCW_AM06203762010000_68/
+    item_selector: div#ulreversible.ac-content-inner ul li
+    item_link_selector: a
+    item_time_selector: div.acBacknumber-item-inner span
+    item_title_selector: div.acBacknumber-item-inner span
+  - id: KadoComi-GsComic-DiceRole
+    title: カドコミ - だいすろーる！
+    url: https://comic-walker.com/detail/KC_003360_S/episodes/KC_0033600001200011_E?episodeType=latest
+    item_selector: div.WebSerializationList_root__ql6tv ul li
+    item_link_selector: a
+    item_time_selector: div.EpisodeThumbnail_updateWrapper__v4OYA span
+    item_title_selector: div.EpisodeThumbnail_title__G1eWj
+  - id: KadoComi-GsComic-eguchi
+    title: カドコミ - わたしのエ口先生
+    url: https://comic-walker.com/detail/KC_005529_S/episodes/KC_0055290000200011_E?episodeType=first
+    item_selector: div.WebSerializationList_root__ql6tv ul li
+    item_link_selector: a
+    item_time_selector: div.EpisodeThumbnail_updateWrapper__v4OYA span
+    item_title_selector: div.EpisodeThumbnail_title__G1eWj
