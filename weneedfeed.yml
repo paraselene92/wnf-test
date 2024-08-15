@@ -31,6 +31,13 @@ pages:
     item_link_selector: a
     item_time_selector: div
     item_title_selector: div
+  - id: urasunday-panname
+    title: 裏サンデー - パンをナメるな！
+    url: https://urasunday.com/title/2852
+    item_selector: div.chapter ul li
+    item_link_selector: a
+    item_time_selector: div
+    item_title_selector: div
   - id: comicnewtype-coherencelight
     title: ComicNewType - アイドルマスターシャイニーカラーズコヒーレントライト
     url: https://comic.webnewtype.com/contents/coherentlight/
