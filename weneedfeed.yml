@@ -66,3 +66,10 @@ pages:
     item_link_selector: a
     item_time_selector: div.EpisodeThumbnail_updateWrapper__v4OYA span
     item_title_selector: div.EpisodeThumbnail_title__G1eWj
+  - id: KadoComi-GsComic-kusetsuyo
+    title: カドコミ - クセ強彼女は床にいざなう
+    url: https://comic-walker.com/detail/KC_005544_S/episodes/KC_0055440000200011_E?episodeType=first
+    item_selector: div.WebSerializationList_root__ql6tv ul li
+    item_link_selector: a
+    item_time_selector: div.EpisodeThumbnail_updateWrapper__v4OYA span
+    item_title_selector: div.EpisodeThumbnail_title__G1eWj
